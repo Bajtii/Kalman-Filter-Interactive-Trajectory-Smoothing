@@ -174,9 +174,7 @@ python main.py
 ├── images
 │   ├── drawing.png
 │   ├── result.png
-│   └── demo.gif
 ├── README.md
-└── requirements.txt
 ```
 
 ---
